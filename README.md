@@ -196,4 +196,3 @@ dist/Shiba Bone Run.app
 This project is for learning and portfolio purposes.
 
 If you use third-party images, music, or sound effects, make sure to check their licenses and add proper credits.
-EOF
